@@ -15,3 +15,8 @@
 // var OrderPeople = function(people){
 //   return people.sort((a,b) => a.age - b.age ); 
 // }
+// ==============================================================
+// var isSquare = function(arr){
+// if (arr.length === 0) return undefined;
+//   return arr.every(n => Number.isInteger(Math.sqrt(n))); 
+//    }
