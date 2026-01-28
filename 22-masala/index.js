@@ -1,0 +1,1 @@
+// let invert=(array)=> array.map(n => -n)
