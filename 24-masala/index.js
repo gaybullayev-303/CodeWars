@@ -1,0 +1,1 @@
+// let locate = (arr, value)=>arr.flat(Infinity).includes(value)св 
